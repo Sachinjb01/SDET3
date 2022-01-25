@@ -9,6 +9,8 @@ public class samplegit {
 	}
 	{
 		System.out.println("user 1st commited");
+		
+		System.out.println("user 2 1st commit");
 	}
 
 }
